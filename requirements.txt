@@ -1,0 +1,13 @@
+numpy<2
+torch==2.2.2
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers==2.6.1
+pypdf
+python-dotenv
