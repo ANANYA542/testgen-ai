@@ -1,5 +1,5 @@
-numpy<2
-torch==2.2.2
+numpy
+torch
 streamlit
 langchain
 langchain-community
@@ -8,6 +8,6 @@ langchain-core
 langchain-huggingface
 langchain-text-splitters
 chromadb
-sentence-transformers==2.6.1
+sentence-transformers
 pypdf
 python-dotenv
